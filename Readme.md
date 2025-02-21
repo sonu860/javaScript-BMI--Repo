@@ -11,7 +11,7 @@ this =>  file:///C:/Users/yadav/javascript-build-project-BMI-Repo/index.html?
 
 
 #### link About BMI Calculator
-[Click here](https://github.com/yadav-akshay/javascript-build-project-BMI-Repo)
+[Click here]( https://github.com/sonu860/javaScript-BMI--Repo.git)
 
 #### link About Author
 [Click here](https://github.com/sonu860)
